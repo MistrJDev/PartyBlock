@@ -1,0 +1,7 @@
+## Interface: 100205
+## Version: 0.0.5
+## Title: PartyBlock
+## Author: MrJ
+## Notes: /bparty or /block to toggle. - Autodeclines group invites
+
+partyblock.lua
